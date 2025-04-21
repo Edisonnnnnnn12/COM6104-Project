@@ -1,10 +1,3 @@
-Here is the **entire program**, including prompt engineering, to implement an event scheduling and management system using the **Qwen/Qwen2.5-0.5B-Instruct** model. Users can interact with the program using natural language to schedule, edit, check, or delete events.
-
----
-
-### Complete Program Code
-
-```python
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import pandas as pd
 
@@ -128,53 +121,3 @@ def main():
 # Run the program
 if __name__ == "__main__":
     main()
-```
-
----
-
-### Explanation of the Program
-
-1. **Prompt Engineering**:
-   - The prompt instructs the model to identify the user's intent (schedule, edit, check, delete) and extract relevant event details into a structured dictionary format.
-
-2. **Natural Language Input**:
-   - Users can provide conversational instructions like "Schedule a meeting on Monday at 9am," and the model interprets the intent and extracts details.
-
-3. **Core Functionalities**:
-   - **Schedule Event**:
-     - Adds a new event to the system with extracted details.
-   - **Edit Event**:
-     - Modifies an existing event by matching its ID.
-   - **Check Events**:
-     - Filters and displays events based on a date or other criteria.
-   - **Delete Event**:
-     - Removes an event by its ID.
-
-4. **Event Storage**:
-   - Events are stored in a Pandas DataFrame for easy manipulation. You can replace this with a database for persistence.
-
-5. **Dynamic AI Integration**:
-   - The model dynamically interprets each user query and provides structured output for the program to process.
-
-6. **Error Handling**:
-   - Ensures robust handling of invalid model responses or user inputs.
-
----
-
-### Example Interactions
-
-1. **User Input**: "Schedule a meeting on Monday at 9am."
-   - **Response**: "Event scheduled successfully!"
-
-2. **User Input**: "What events do I have on Monday?"
-   - **Response**: Displays all events on Monday.
-
-3. **User Input**: "Change the meeting on Monday to 10am."
-   - **Response**: "Event updated successfully!"
-
-4. **User Input**: "Delete the meeting on Monday at 9am."
-   - **Response**: "Event deleted successfully!"
-
----
-
-This program allows for a seamless and conversational event management experience using the **Qwen** model. Let me know if you have any questions or need enhancements!
