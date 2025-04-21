@@ -112,7 +112,7 @@ def handle_user_input(user_input):
 def main():
     print("Welcome to Event Scheduler!")
     while True:
-        user_input = input("How can I help you today? (e.g., Schedule a meeting on Monday 9am): ")
+        user_input = input("How can I help you today? (e.g., Schedule a meeting on Monday at 9am): ")
         if user_input.lower() in ["exit", "quit"]:
             print("Goodbye!")
             break
