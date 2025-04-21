@@ -12,7 +12,7 @@ event_data = pd.DataFrame(columns=["ID", "Title", "Start", "End", "Location", "P
 # Helper function for AI response
 def get_ai_response(prompt):
     inputs = tokenizer(prompt, return_tensors="pt")
-    outputs = model.generate(**inputs, max_new_tokens=2000)
+    outputs = model.generate(**inputs, max_new_tokens=200)
     return tokenizer.decode(outputs[0], skip_special_tokens=True)
 
 # Function to handle user input
