@@ -10,4 +10,4 @@ Main function:
 4. Remove event
 Details including: Event name (e.g. Meeting, deadline/ETA, etc.), Date, Time, Venue, Notes, etc.)
 
-Techniques: Using LLM model & fine-tuning techniques (Fine-tuning Lora) in the project
+Techniques: LLM model, prompt engineering & fine-tuning techniques (Fine-tuning Lora)
