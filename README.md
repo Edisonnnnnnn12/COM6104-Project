@@ -1,6 +1,8 @@
 # COM6104-Project
 # Topic: AI agent for event scheduling and management
 
+Objective:
+
 Basic UI: 
 
 Main function:
