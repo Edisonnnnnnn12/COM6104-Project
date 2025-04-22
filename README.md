@@ -4,12 +4,16 @@
 Objective:
 
 Basic UI: 
+- An introduction sentense: "Welcome to Event manager!!!"
+- Dialogue box ask: "How can I help you today?"
+
 
 Main function:
 1. Add event
 2. Check event
 3. Edit event
 4. Remove event
+
 Details including: Event name (e.g. Meeting, deadline/ETA, etc.), Date, Time, Venue, Notes, etc.)
 
 Techniques: LLM model, prompt engineering & fine-tuning techniques (Fine-tuning Lora)
