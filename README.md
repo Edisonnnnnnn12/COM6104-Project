@@ -13,7 +13,7 @@ Main function:
 2. Check event
 3. Edit event
 4. Remove event
-5. Optimization: Check if any overlap of different events, e.g. 2 meetings at the same time etc.
+5. Optimization: Check if any overlap of different events, e.g. 2 meetings at the same time etc. (Try...)
 
 Details including: Event name (e.g. Meeting, deadline/ETA, etc.), Date, Time, Venue, Notes, etc.)
 
