@@ -23,5 +23,3 @@ Main function (Add screenshot for each case as an example):
 4. Remove event
 
 Details including: Event name (e.g. Meeting, deadline/ETA, etc.), Date, Time, Venue, Notes, etc.)
-
-Techniques: LLM model, prompt engineering & fine-tuning techniques
