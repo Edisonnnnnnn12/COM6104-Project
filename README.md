@@ -10,10 +10,7 @@ Team member:
 
 Basic UI: 
 - Login page
-- Main page:
-  - Providing 2 ways to deliver instructions:
-    1. User input instruction / inquiries directly (like "Schedule a meeting tomorrow from 3-5pm")
-    2. Button available for different functions ("Add event", "Check event", "Event this week" & "Remove event")
+- Main page: User input instruction / inquiries directly (like "Schedule a meeting tomorrow from 3-5pm")
 
 Main function (Add screenshot for each case as an example):
 1. Add event: e.g. Schedule a meeting tomorrow from 6 to 8pm
