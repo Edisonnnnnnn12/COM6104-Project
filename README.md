@@ -10,7 +10,9 @@ Team member:
 
 Basic UI: 
 - Login page
-- Main page: User input instruction / inquiries directly (like "Schedule a meeting tomorrow from 3-5pm")
+- 2 different ways tp deliver message:
+  a. User input instruction / inquiries directly (like "Schedule a meeting tomorrow from 3-5pm")
+  b. Click buttons (4 different options)
 
 Main function (Add screenshot for each case as an example):
 1. Add event: e.g. Schedule a meeting tomorrow from 6 to 8pm
