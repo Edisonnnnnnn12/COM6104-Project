@@ -11,7 +11,9 @@ Team member:
 Basic UI: 
 - Login page
 - 2 different ways tp deliver message:
+  
   a. User input instruction / inquiries directly (like "Schedule a meeting tomorrow from 3-5pm")
+  
   b. Click buttons (4 different options)
 
 Main function (Add screenshot for each case as an example):
