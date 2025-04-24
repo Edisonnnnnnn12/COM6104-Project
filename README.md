@@ -16,12 +16,12 @@ Basic UI:
     2. Button available for different functions ("Add event", "Check event", "Event this week" & "Remove event")
 
 Main function (Add screenshot for each case as an example):
-1. Add event
-   e.g. Schedule a meeting tomorrow from 6 to 8pm
+1. Add event: e.g. Schedule a meeting tomorrow from 6 to 8pm
+   
    Expected outcome: 
-2. Check event
-3. Edit event
-4. Remove event
+3. Check event
+4. Edit event
+5. Remove event
 
 Details including: Event name (e.g. Meeting, deadline/ETA, etc.), Date, Time, Venue, Notes, etc.)
 
