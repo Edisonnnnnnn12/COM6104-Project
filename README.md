@@ -24,4 +24,4 @@ Main function (Add screenshot for each case as an example):
 
 Details including: Event name (e.g. Meeting, deadline/ETA, etc.), Date, Time, Venue, Notes, etc.)
 
-Techniques: LLM model (Llama3), prompt engineering & fine-tuning techniques
+Techniques: LLM model, prompt engineering & fine-tuning techniques
