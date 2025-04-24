@@ -1,7 +1,12 @@
-# COM6104-Project
+# COM6104 (2024-2025 S2) Group Project
 # Topic: AI agent for event scheduling and management
-# Deadline: April 25 23:55
-Objective:
+
+Group: 02
+
+Team member:
+p243603 Chan Kun Hei
+p243633 Yao Feiyu
+p243417 Zhang Yexin
 
 Basic UI: 
 - An introduction sentense: "Welcome to Event manager!!!"
@@ -13,7 +18,6 @@ Main function:
 2. Check event
 3. Edit event
 4. Remove event
-5. Optimization: Check if any overlap of different events, e.g. 2 meetings at the same time etc. (Try...)
 
 Details including: Event name (e.g. Meeting, deadline/ETA, etc.), Date, Time, Venue, Notes, etc.)
 
