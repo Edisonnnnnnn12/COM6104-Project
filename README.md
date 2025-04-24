@@ -9,18 +9,20 @@ Team member:
 - p243417 Zhang Yexin
 
 Basic UI: 
-- An introduction sentense: "Welcome to Event manager!!!"
-- Dialogue box ask: "How can I help you today?"
+- Login page
+- Main page:
+  - Providing 2 ways to deliver instructions:
+    (1). User input instruction / inquiries directly (like "Schedule a meeting tomorrow from 3-5pm")
+    (2). Button available for different functions ("Add event", "Check event", "Event this week" & "Remove event")
 
-
-Main function:
+Main function (Add screenshot for each case as an example):
 1. Add event
+   e.g. Schedule a meeting tomorrow from 6 to 8pm
+   Expected outcome: 
 2. Check event
 3. Edit event
 4. Remove event
 
 Details including: Event name (e.g. Meeting, deadline/ETA, etc.), Date, Time, Venue, Notes, etc.)
 
-Link to Google Calendar API. If not doable, use sqlite3 to set up a calendar (see the notebook main.py)
-
-Techniques: LLM model, prompt engineering & fine-tuning techniques (Fine-tuning Lora)
+Techniques: LLM model (Llama3), prompt engineering & fine-tuning techniques
